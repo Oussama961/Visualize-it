@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+firmware = 'C:\Users\oussa\Documents\Visualize-it\Scanner_project\diagram.json'
+elf = 'C:\Users\oussa\Documents\Visualize-it\Scanner_project\exemple_app.elf'
+
+
